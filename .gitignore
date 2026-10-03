@@ -1,0 +1,12 @@
+data/.DS_Store
+notebooks/.ipynb_checkpoints/01_generate_synthetic_data-checkpoint.ipynb
+data/profile_plymouth.py
+data/profile_plymouth_2.py
+profile_output.txt
+profile_output_2.txt
+profile_plymouth.py
+data/Plymouth-Attendance-Final.csv
+data/Plymouth-Grades-Final-Excel-2.XLSX
+data/Plymouth-Tests-13-16-Excel.xlsx
+/data
+.DS_Store

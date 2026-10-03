@@ -1,0 +1,20 @@
+{
+  "engagement_rho": 0.85,
+  "absence_intercept": -2.75,
+  "absence_engagement": -0.65,
+  "absence_hs_bump": 0.35,
+  "absence_noise_sd": 0.6,
+  "pass_intercept": 1.75,
+  "pass_engagement": 1.35,
+  "pass_term_noise_sd": 0.7,
+  "pass_course_noise_sd": 0.5,
+  "test_engagement_weight": 0.5,
+  "test_noise_sd": 0.35,
+  "retained_9_intercept": -2.6,
+  "retained_9_engagement": -0.9,
+  "fifth_year_intercept": -2.4,
+  "fifth_year_engagement": -0.6,
+  "share_enrolled_from_k": 0.55,
+  "share_transfer_in_state": 0.6,
+  "transfer_credits_missing_rate": 0.15
+}

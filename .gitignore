@@ -10,3 +10,4 @@ data/Plymouth-Grades-Final-Excel-2.XLSX
 data/Plymouth-Tests-13-16-Excel.xlsx
 /data
 .DS_Store
+notebooks/.ipynb_checkpoints/02_eda_and_cleaning-checkpoint.ipynb

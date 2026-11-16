@@ -43,7 +43,3 @@ pip install -r requirements.txt
 ```
 
 Run the notebooks in order from `notebooks/`. The synthetic data is already included. Real district data is never committed.
-
----
-
-Mitchell Yen-Kastoff

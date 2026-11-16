@@ -2,7 +2,7 @@
 
 This project tests whether a school can identify, at the end of 9th grade, which students are likely to finish high school short of the 24 credits a diploma requires.
 
-This project compares five approaches, from a one-line rule a counselor could apply by hand to Random Forest and XGBoost. **The simple rule ranked students as well as any model tested**, and the more complex models did worse because they overfit.
+It compares five approaches, from a one-line rule a counselor could apply by hand to Random Forest and XGBoost. **The simple rule ranked students as well as any model tested**, and the more complex models did worse because they overfit.
 
 ## Key findings
 
